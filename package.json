@@ -1,0 +1,29 @@
+{
+  "name": "@varjmes/ext",
+  "version": "1.0.0",
+  "description": "Give files, get filenames.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varjmes/ext.git"
+  },
+  "keywords": [
+    "filename",
+    "extension"
+  ],
+  "author": "James Spencer <hello@jmes.tech>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/varjmes/ext/issues"
+  },
+  "homepage": "https://github.com/varjmes/ext#readme",
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
