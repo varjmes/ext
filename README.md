@@ -1,6 +1,6 @@
 # ext
 
-![npm (scoped)](https://img.shields.io/npm/v/@varjmes/ext?style=flat-square)
+[![npm (scoped)](https://img.shields.io/npm/v/@varjmes/ext?style=flat-square)](https://www.npmjs.com/package/@varjmes/ext)
 
 A package that gets you the extension of a file.
 
