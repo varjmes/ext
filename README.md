@@ -14,7 +14,7 @@ npx @varjmes/ext test.js
 const ext = require('@varjmes/ext')
 console.log(ext('test.spec.js'))
 # OR
-npx @varjmes/ext james.spec.js
+npx @varjmes/ext test.spec.js
 # Returns '.js'
 
 const ext = require('@varjmes/ext')
