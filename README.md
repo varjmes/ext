@@ -4,7 +4,7 @@
 
 A package that gets you the extension of a file.
 
-```bash
+```js
 const ext = require('@varjmes/ext')
 console.log(ext('test.js'))
 # OR
