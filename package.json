@@ -20,9 +20,7 @@
     "url": "https://github.com/varjmes/ext/issues"
   },
   "homepage": "https://github.com/varjmes/ext#readme",
-  "files": [
-    "index.js"
-  ],
+  "bin": "./bin/cli.js",
   "devDependencies": {
     "jest": "^24.9.0"
   }
